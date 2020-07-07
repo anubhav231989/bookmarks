@@ -1,0 +1,9 @@
+Django>=3.0.7,<=3.1.0
+Pillow==6.2.2
+Image
+django-extensions>=3.0.2,<=3.1.0
+pyOpenSSL
+werkzeug
+certifi
+requests
+easy-thumbnails
